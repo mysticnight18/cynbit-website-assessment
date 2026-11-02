@@ -1,0 +1,8 @@
+{
+  "name": "cynbit-studio-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cynbit website reimagining with a small Node.js inquiry backend",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=20" }
+}
